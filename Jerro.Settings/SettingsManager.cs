@@ -44,7 +44,7 @@ namespace Jerro.Settings
         /// Full path of the settings file
         /// </summary>
         [Ignore]
-        public IDataProtector? DataProtector => default;
+        public IDataProtector? DataProtector { get; set; } = default;
 
         /// <summary>
         /// Whether the settings have been saved since the last time they were changed
