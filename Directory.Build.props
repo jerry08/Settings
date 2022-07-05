@@ -17,9 +17,8 @@
 
   <PropertyGroup>
     <Authors>$(Company)</Authors>
-    <PackageTags>soundcloud download playlist user channel tracks parse extract metadata info net core standard</PackageTags>
-    <PackageProjectUrl>https://github.com/jerry08/SoundCloudExplode</PackageProjectUrl>
-    <PackageReleaseNotes>https://github.com/jerry08/SoundCloudExplode/blob/master/Changelog.md</PackageReleaseNotes>
+    <PackageTags>csharp settings manager</PackageTags>
+    <PackageProjectUrl>https://github.com/jerry08/Settings</PackageProjectUrl>
     <PackageReadmeFile>ReadMe.md</PackageReadmeFile>
     <PackageIcon>favicon.png</PackageIcon>
     <PackageLicenseExpression>LGPL-3.0-only</PackageLicenseExpression>
