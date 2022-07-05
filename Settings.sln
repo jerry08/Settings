@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98447497-B438-45B9-9268-FDEACBE94FE4}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		License.txt = License.txt
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jerro.Settings", "Jerro.Settings\Jerro.Settings.csproj", "{C2BCAF75-BF56-43AC-B349-F3000784E659}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jerro.Settings.Tests", "Jerro.Settings.Tests\Jerro.Settings.Tests.csproj", "{6B12175C-7F3A-4047-844A-091E76164709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BCAF75-BF56-43AC-B349-F3000784E659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BCAF75-BF56-43AC-B349-F3000784E659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BCAF75-BF56-43AC-B349-F3000784E659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BCAF75-BF56-43AC-B349-F3000784E659}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B12175C-7F3A-4047-844A-091E76164709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B12175C-7F3A-4047-844A-091E76164709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B12175C-7F3A-4047-844A-091E76164709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B12175C-7F3A-4047-844A-091E76164709}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E8D6E0-64EE-4E60-8DCF-622B4F845242}
+	EndGlobalSection
+EndGlobal
