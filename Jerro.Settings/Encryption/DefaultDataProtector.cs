@@ -10,7 +10,7 @@ namespace Jerro.Settings.Encryption
     /// </summary>
     public class DefaultDataProtector : IDataProtector
     {
-        private readonly string _Key = "JerroSettings2022";
+        private readonly string _Key = "2V8BjFU9gtG4ZG6C";
 
         /// <summary>
         /// Initializes an instance of <see cref="DefaultDataProtector"/>.
